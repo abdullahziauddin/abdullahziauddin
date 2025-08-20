@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Ibne Ziauddin  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-ibne-ziauddin-9344a620b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-ibne-ziauddin-9344a620b)  
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2)](https://globaledmentor.com)  
 [![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/abdullahziauddin)  
 
@@ -73,29 +73,29 @@ I’m a **Computer Engineering student** at **Istanbul Medipol University** with
 
 ## 📊 GitHub Stats  
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=00BFFF&text_color=FFFFFF&bg_color=0A0A0A)  
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahziauddin&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=00BFFF&text_color=FFFFFF&bg_color=0A0A0A)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=FFFFFF&bg_color=0A0A0A)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahziauddin&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=FFFFFF&bg_color=0A0A0A)  
 
 📈 **Contribution Graph**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&ring=8A2BE2&fire=FF6F00&currStreakLabel=00BFFF)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahziauddin&theme=tokyonight&ring=8A2BE2&fire=FF6F00&currStreakLabel=00BFFF)  
 
 📊 **Activity Graph**  
-![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0A0A0A&color=8A2BE2&line=00BFFF&point=FF6F00)  
+![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahziauddin&theme=tokyo-night&bg_color=0A0A0A&color=8A2BE2&line=00BFFF&point=FF6F00)  
 
 ---
 
 ## 📫 Connect with Me  
 
 🌐 [Portfolio](https://globaledmentor.com)  
-💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+💼 [LinkedIn](https://linkedin.com/in/abdullah-ibne-ziauddin-9344a620b)  
 📧 Email: **abdullah@globaledmentor.com**  
 
 ---
 
 ## 👀 Visitor Counter  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8A2BE2&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=abdullahziauddin&label=Profile%20Views&color=8A2BE2&style=flat)  
 
 ---
 
