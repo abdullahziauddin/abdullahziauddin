@@ -89,7 +89,7 @@ I’m a **Computer Engineering student** at **Istanbul Medipol University** with
 
 🌐 [Portfolio](https://globaledmentor.com)  
 💼 [LinkedIn](https://linkedin.com/in/abdullah-ibne-ziauddin-9344a620b)  
-📧 Email: **abdullah@globaledmentor.com**  
+📧 Email: **abdullah@alqureshgroup.com**  
 
 ---
 
